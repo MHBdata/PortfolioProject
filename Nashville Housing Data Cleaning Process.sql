@@ -1,4 +1,4 @@
-/* Course Project 1 : NashvilleHousing Dataset
+/* Project 1 : NashvilleHousing Dataset
 
 This dataset includes data regarding the Nashville housing market from 2013 to 2019. The porpuse of the project is to clean the data and prepare it for analysis. */
 
