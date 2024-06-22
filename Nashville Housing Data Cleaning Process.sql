@@ -2,6 +2,7 @@
 
 This dataset includes data regarding the Nashville housing market from 2013 to 2019. The porpuse of the project is to clean the data and prepare it for analysis. */
 
+
 SELECT *
 FROM dbo.NashvilleHousing
 
@@ -61,6 +62,7 @@ JOIN NashvilleHousing NH2
 	AND NH.[UniqueID ]	<> NH2.[UniqueID ]
 WHERE NH.PropertyAddress is null
 
+	
 -- Task 3: Breaking out PropertyAddress into indivdual columns (Adress, City, State)
 
 SELECT *
