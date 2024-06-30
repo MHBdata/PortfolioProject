@@ -2,6 +2,10 @@ This is a repository for my world census data analytics project files. Data from
 
 The data was taken from Google BigQuery public data repository.
 
+Here a snapshot of how the Power BI Dashboard looks like:
+
+![image](https://github.com/MHBdata/WorldCensusDataProject/assets/173110381/5e069b79-6884-46a5-88a1-fc509e629437)
+
 I am fully committed to acquiring all the necessary skills to become a great data analyst. 
 
 Let's keep practicing! 🙌
