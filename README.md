@@ -10,6 +10,8 @@ Here a snapshot of how the Power BI Dashboard looks like:
 
 Users can utilize slicers to select a single country and one or multiple years to visualize the data.
 
+I created a personalized background using Power Point.
+
 I am fully committed to acquiring all the necessary skills to become a great data analyst. 
 
 Let's keep practicing! 🙌
